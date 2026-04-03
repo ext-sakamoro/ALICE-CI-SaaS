@@ -1,5 +1,5 @@
 apiVersion: v2
-name: ALICE_CI
+name: alice-ci
 description: ALICE CI
 type: application
 version: 0.1.0
